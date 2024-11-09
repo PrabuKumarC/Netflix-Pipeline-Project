@@ -13,7 +13,7 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2>NETFLIX Code changed by PRABU</h2>
+      <h2>NETFLIX deployed by PRABU</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
